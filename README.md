@@ -4,4 +4,4 @@
 
   ### Graphs 	
 
-  * Depth First Search (DFS)[./Graphs/dfs.md]
+  * Depth First Search: [DFS](./Graphs/dfs.md)
