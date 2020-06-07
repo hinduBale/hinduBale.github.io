@@ -1,4 +1,4 @@
-# <ins>Welcome to The Quiver of hinduBale's Algorithmic Arsenal ;)</ins> &nbsp; &nbsp;
+# Welcome to The Quiver of hinduBale's Algorithmic Arsenal ;)<br/><br/>
 
 
 ## <ins>Day 1</ins>
