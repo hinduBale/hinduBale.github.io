@@ -6,4 +6,4 @@
 
 ## Day 1
 
-  * Depth First Search (DFS)[./Graphs/dfs.md]
+  * Depth First Search: [DFS](./Graphs/dfs.md)
