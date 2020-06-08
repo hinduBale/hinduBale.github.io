@@ -26,7 +26,7 @@ For more details check out the implementation.
 
 ## My Understanding { Don't judge me on this :sob: }
 
-For the intuition behind the DFS Algorithm, check out [this post](./Graphs/dfs.md).
+For the intuition behind the DFS Algorithm, check out [this post](./dfs.md).
 
 This is simply the implementation of Depth First Search on a Grid/Matrix instead of a traditional graph. Getting acquainted with this helps solve a whole new slew of questions, which had previously been unapproachable. In a grid, edges are formed between two cells that are adjacent or even diagonally, depending upon the specifics of the question. No major change is introduced apart from the fact that:
 * The visited array becomes 2D (Take care, 2D bool vectors can't be very big, so declare their size conservatively)
