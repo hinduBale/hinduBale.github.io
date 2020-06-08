@@ -24,7 +24,7 @@ This way we visit all vertices that are reachable from the starting vertex.
 
 For more details check out the implementation.
 
-## My Understanding { Don't judge me on this :cry: }
+## My Understanding { Don't judge me on this :sob: }
 
 For the intuition behind the DFS Algorithm, check out [this post](./Graphs/dfs.md).
 

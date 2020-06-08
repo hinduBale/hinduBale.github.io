@@ -25,7 +25,7 @@ This way we visit all vertices that are reachable from the starting vertex.
 
 For more details check out the implementation.
 
-## My Understanding { Don't judge me on this :'( }
+## My Understanding { Don't judge me on this :sob: }
 
 #### Data Structure Used: 
 * Breadth means long, and long means queue
