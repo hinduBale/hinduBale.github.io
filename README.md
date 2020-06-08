@@ -48,6 +48,7 @@
 ## <ins>Day 12</ins>
 
 * Depth First Search on a Grid: [DFS_GRID](./Graphs/grid_dfs.md)
+* Connected Components on a Grid: [DFS_CC](./Graphs/grid_cc.md)
 
 ## <ins>Day 13</ins>
 
