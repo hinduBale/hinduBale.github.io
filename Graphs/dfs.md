@@ -29,7 +29,7 @@ For more details check out the implementation.
 
 #### Data Structure Used: 
 * Breadth means long, and long means queue
-* Deapth means deep, and deap means stack.
+* Deapth means deep, and deep means stack.
 
 #### Intuition:
 * Depth first means, wherever you start from, keep on going deeper and deeper till you reach the end (leaf nodes).

@@ -3,6 +3,7 @@
 
 ## <ins>Day 1</ins>
 
+  * Breadth First Search: [BFS](./Graphs/bfs.md)
   * Depth First Search: [DFS](./Graphs/dfs.md)
   
 ## <ins>Day 2</ins>
