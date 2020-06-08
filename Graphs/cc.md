@@ -5,10 +5,10 @@ Given an undirected graph $G$ with $n$ nodes and $m$ edges. We are required to f
 ## Video Resources for a Quick Primer
 
  
-{% include youtubePlayer.html id="pcKY4hjDrxk" %}
+{% include youtubePlayer.html id="z49Ohr5Ypnw" %}
 
 
-</br></br>
+<br><br>
 
 ## An algorithm for solving the problem
 
