@@ -5,6 +5,14 @@ As a result of how the algorithm works, the path found by breadth first search t
 
 The algorithm works in `O(n + m)` time, where `n` is number of vertices and `m` is the number of edges.
 
+## Video Resources for a Quick Primer
+
+ 
+{% include youtubePlayer.html id="pcKY4hjDrxk" %}
+
+
+
+
 ## Official Description of the algorithm
 
 The algorithm takes as input an unweighted graph and the id of the source vertex `s`. The input graph can be directed or undirected,
