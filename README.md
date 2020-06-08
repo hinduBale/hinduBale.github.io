@@ -47,7 +47,7 @@
 
 ## <ins>Day 12</ins>
 
-* Depth First Search: [DFS](./Graphs/dfs.md)
+* Depth First Search on a Grid: [DFS_GRID](./Graphs/grid_dfs.md)
 
 ## <ins>Day 13</ins>
 
