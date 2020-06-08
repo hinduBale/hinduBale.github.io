@@ -8,7 +8,7 @@
   
 ## <ins>Day 2</ins>
 
-* Depth First Search: [DFS](./Graphs/dfs.md)
+* Connected Components: [CC](./Graphs/cc.md)
 
 ## <ins>Day 3</ins>
 

@@ -49,8 +49,6 @@ In the implementation, I've maintained an array of parents, that is helpful to d
 
 ## Implementation
 
-We write code for the described algorithm in C++.
-
 ```cpp
 #include <bits/stdc++.h>
 
