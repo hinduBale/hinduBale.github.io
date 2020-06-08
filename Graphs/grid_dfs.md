@@ -24,7 +24,7 @@ This way we visit all vertices that are reachable from the starting vertex.
 
 For more details check out the implementation.
 
-## My Understanding { Don't judge me on this _/\\_ }
+## My Understanding { Don't judge me on this _ /\ _ }
 
 For the intuition behind the DFS Algorithm, check out [this post](./dfs.md).
 
