@@ -53,7 +53,7 @@
 
 ## <ins>Day 13</ins>
 
-* CSES Problem: [Counting Rooms](./Graphs/counting_room,md)
+* CSES Problem: [Counting Rooms](./Graphs/counting_room.md)
 * Breadth First Search on a Grid: [BFS_GRID](./Graphs/grid_bfs.md)
 * HackerEarth Question: [Jungle Run](./Graphs/jungle_run.md)
 
