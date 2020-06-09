@@ -53,7 +53,8 @@
 
 ## <ins>Day 13</ins>
 
-* Depth First Search: [DFS](./Graphs/dfs.md)
+* Breadth First Search on a Grid: [BFS_GRID](./Graphs/bfs.md)
+* HackerEarth Question: [Jungle Run](./Graphs/jungle_run.md)
 
 ## <ins>Day 14</ins>
 

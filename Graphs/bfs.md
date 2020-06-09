@@ -11,7 +11,7 @@ The algorithm works in `O(n + m)` time, where `n` is number of vertices and `m` 
 {% include youtubePlayer.html id="pcKY4hjDrxk" %}
 
 
-
+<br><br>
 
 ## Official Description of the algorithm
 
