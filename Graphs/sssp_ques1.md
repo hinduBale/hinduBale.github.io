@@ -49,6 +49,16 @@ Help Him!!!!!
 3
 ```
 
+
+## Video Resource for a Quick Primer
+
+
+ 
+{% include youtubePlayer.html id="CCrwMjQiZHg" %}
+
+
+<br><br>
+
 ## Accepted Solution:
 
 The nodes(u, v) passed as parameter to the function `addEdge(lli u, lli v)` as either passed as `addEdge(u, v)` or `addEdge(--u, --v)` depending on whether the nodes listed in the question are of 0-based or 1-based numbering.
