@@ -86,3 +86,18 @@ int main()
 	return 0;
 }
 ```
+## Sample Input:
+```
+6 5
+1 2
+2 3
+2 4
+4 5
+4 6
+```
+
+## Expected Output:
+
+```
+[1, 0, 1, 1, 2, 2]
+```
