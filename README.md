@@ -9,6 +9,8 @@
 ## <ins>Day 2</ins>
 
 * Connected Components: [CC](./Graphs/cc.md)
+* Single Source Shortest Path: [SSSP](./Graphs/single_source_shortest_path.md)
+* SSSP Practice Question 1: [Bishu and his Girlfriend](./Graphs/sssp_ques1.md)
 
 ## <ins>Day 3</ins>
 
