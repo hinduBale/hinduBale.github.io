@@ -14,7 +14,8 @@
 
 ## <ins>Day 3</ins>
 
-* Depth First Search: [DFS](./Graphs/dfs.md)
+* In Out Times of Nodes: [IN_OUT](./Graphs/in_out_time.md)
+* Practice Question 2: [CODECHEF:FIRESC](./Graphs/cc_firesc.md)
 
 ## <ins>Day 4</ins>
 
