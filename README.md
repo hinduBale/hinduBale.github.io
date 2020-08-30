@@ -1,9 +1,9 @@
 # Welcome to my digital backyard ;)
 
 Hello World!! I am Rahul Saxena, a final year computer science undergraduate at IIIT Bhubaneswar. Few highlights of my college life, where my love affair with computers started:
-  - [Google Summner of Code 2020 Student Developer with R Project for Statistical Computing] (https://summerofcode.withgoogle.com/projects/#6187591176552448/)
-  - [Co-Founder of Information Security Society of IIIT-Bhubaneswar] (https://www.facebook.com/ACMIIITBh/posts/3165433630167350)
-  - [Summer Research Intern at IIT Patna] (https://github.com/hinduBale/hinduBale.github.io/blob/master/Rahul_Cert(1).PDF)
+  - [Google Summner of Code 2020 Student Developer with R Project for Statistical Computing](https://summerofcode.withgoogle.com/projects/#6187591176552448/)
+  - [Co-Founder of Information Security Society of IIIT-Bhubaneswar](https://www.facebook.com/ACMIIITBh/posts/3165433630167350)
+  - [Summer Research Intern at IIT Patna](https://github.com/hinduBale/hinduBale.github.io/blob/master/Rahul_Cert(1).PDF)
 
 ![Portfolio header image](https://github.com/hinduBale/hinduBale.github.io/blob/master/assets/images/portal_intro_image.jpg)
 
