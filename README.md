@@ -36,6 +36,8 @@ As part of my GSoC 2020 program I got to work on a `CRAN` package that optimizes
 * Improved the exisiting documentation and collated the contributions of [Google Code-In students](https://github.com/jcrodriguez1989/rco/pull/163)
 * Check out my beta version of the `rco` website [here](https://hindubale.github.io/rco/)
 
+* Here's a [quick summary](https://rpubs.com/hinduBale/gsoc2020FinalReport) of GSoC '20 journey.
+
 ## 2. IIIT Bhubaneswar Alumni Wall
 
 ![A Snippet of the Alumni Wall](alumniWallIntroImage.PNG)
