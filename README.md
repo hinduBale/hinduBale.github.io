@@ -27,6 +27,16 @@ I simply love to learn and explore the core fundamentals of Computer Science.
 
 With the vision of gaining insight on the alumni from my college and helping the students of our college to get in touch with the alumni at the appropriate positions, I built this **Alumni Wall**.
 
-* A Detailed Blog can be found [here](https://towardsdatascience.com/battling-covid-19-with-data-science-as-a-university-student-ffcb9304b4c?source=friends_link&sk=69e2db76eaa72bb837a2a9b6fa857223)
+* A Detailed blogpost can be found [here](https://towardsdatascience.com/battling-covid-19-with-data-science-as-a-university-student-ffcb9304b4c?source=friends_link&sk=69e2db76eaa72bb837a2a9b6fa857223)
 * You can check out the project [here](https://studentsofiiitbh.team/alumniwall/)
 * The source code is available [here](https://github.com/hinduBale/iiit-bh_alumni_wall/)
+
+## 2. IIIT Bhubaneswar Exams Archive
+
+![A Snippet of the Exams Archive](https://github.com/hinduBale/hinduBale.github.io/blob/master/examArchiveIntroImage.PNG)
+
+Often in an autonomous institute like ours, the previous year question papers of the mid-terms and end-terms give us a good idea as to what can be expected in the upcoming papers. So, with the aim to create a central platform for all exam-preparation resources, I created ** The Exams Archive**.
+
+* A Detailed blogpost can be found [here](https://towardsdatascience.com/creating-an-exam-archive-system-with-a-data-scientists-toolkit-a080d497a9a0?source=friends_link&sk=510d86233ad78639bc201243db31adc1)
+* You can check out the project [here](https://studentsofiiitbh.team/examarchive/)
+* The source code is available [here](https://github.com/hinduBale/iiit-bh_exam_archive)
