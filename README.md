@@ -24,7 +24,19 @@ For more professional discourse, I prefer these:
   
   I am firm believer in practical knowledge. While it's alright to posess a theoretical and higher-level understanding of things, we should never be limited to that itself. So here are some of my projects that I have worked on, both the good and the bad :D
 
-## 1. IIIT Bhubaneswar Alumni Wall
+## 1. R Code Optimizer (rco library)
+
+![`rco` in action](rcoIndexImage.PNG)
+
+As part of my GSoC 2020 program I got to work on a `CRAN` package that optimizes R Code, called [`rco`](https://github.com/jcrodriguez1989/rco). As part of my efforts, I **contributed two new optimizers** to the package, namely [Conditional Threading Optimizer](https://github.com/jcrodriguez1989/rco/pull/162) and the [Memory Allocation Optimizer](https://github.com/jcrodriguez1989/rco/pull/169). I've also contributed a [Column Extraction Optimizer](https://github.com/jcrodriguez1989/rco/pull/152) and a [Value Extraction Optimizer](https://github.com/jcrodriguez1989/rco/pull/155), but these are to be implemented in the next phase of `rco` optimizers.
+
+* Read about Conditional Threading and Vector Initialization optimization [here](https://rpubs.com/hinduBale/strategies_ideas_rco)
+* Solved a long-pending [critical issue](https://github.com/jcrodriguez1989/rco/issues/107) with an optimizer
+* Carried out the experimentations for [migrating the project to Github Actions](https://github.com/hinduBale/rco/tree/ghActions/.github/workflows) for CI/CD operations
+* Improved the exisiting documentation and collated the contributions of [Google Code-In students](https://github.com/jcrodriguez1989/rco/pull/163)
+* Check out my beta version of the `rco` website [here](https://hindubale.github.io/rco/)
+
+## 2. IIIT Bhubaneswar Alumni Wall
 
 ![A Snippet of the Alumni Wall](alumniWallIntroImage.PNG)
 
@@ -34,7 +46,7 @@ With the vision of gaining insights on the alumni from our college and helping t
 * You can check out the project [here](https://studentsofiiitbh.team/alumniwall/)
 * The source code is available [here](https://github.com/hinduBale/iiit-bh_alumni_wall/)
 
-## 2. IIIT Bhubaneswar Exams Archive
+## 3. IIIT Bhubaneswar Exams Archive
 
 ![A Snippet of the Exams Archive](examArchiveIntroImage.PNG)
 
