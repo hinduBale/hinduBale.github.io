@@ -6,7 +6,7 @@ Hello World!! I am Rahul Saxena, a final year computer science undergraduate at 
   - [Co-Founder of Information Security Society of IIIT-Bhubaneswar](https://www.facebook.com/ACMIIITBh/posts/3165433630167350)
   - [Summer Research Intern at IIT Patna](https://hindubale.github.io/Rahul_Cert(1).PDF)
 
-![Portfolio header image](https://github.com/hinduBale/hinduBale.github.io/blob/master/assets/images/portal_intro_image.jpg)
+![Portfolio header image](https://github.com/hinduBale/hinduBale.github.io/blob/master/port_photo_header.jpg)
 
 ## Where do I hang out ?
 
