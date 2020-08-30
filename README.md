@@ -23,7 +23,7 @@ I simply love to learn and explore the core fundamentals of Computer Science.
 
 ## 1. IIIT Bhubaneswar Alumni Wall
 
-![A Snippet of the Alumni Wall](https://github.com/hinduBale/hinduBale.github.io/blob/master/alumniWallIntroImage.PNG)
+![A Snippet of the Alumni Wall](alumniWallIntroImage.PNG)
 
 With the vision of gaining insight on the alumni from my college and helping the students of our college to get in touch with the alumni at the appropriate positions, I built this **Alumni Wall**.
 
@@ -33,7 +33,7 @@ With the vision of gaining insight on the alumni from my college and helping the
 
 ## 2. IIIT Bhubaneswar Exams Archive
 
-![A Snippet of the Exams Archive](https://github.com/hinduBale/hinduBale.github.io/blob/master/examArchiveIntroImage.PNG)
+![A Snippet of the Exams Archive](examArchiveIntroImage.PNG)
 
 Often in an autonomous institute like ours, the previous year question papers of the mid-terms and end-terms give us a good idea as to what can be expected in the upcoming papers. So, with the aim to create a central platform for all exam-preparation resources, I created ** The Exams Archive**.
 
