@@ -1,6 +1,6 @@
 # Welcome to my digital backyard ;)
 
-Hello World!! I am Rahul Saxena, a final year computer science undergraduate at IIIT Bhubaneswar. Few highlights of my college life, where my love affair with computers started:
+Hello World!! I am Rahul Saxena, a final year computer science undergraduate at IIIT Bhubaneswar. I simply love to learn and explore the core fundamentals of Computer Science and yet keeping tabs on the latest developments in computer science. Few highlights of my college life, where my love affair with computers started:
   - [Google Summner of Code 2020 Student Developer with R Project for Statistical Computing](https://summerofcode.withgoogle.com/projects/#6187591176552448/)
   - [Cyber Security Speaker for the Govt of Odisha under CDAC and ISEA](https://twitter.com/hindu_bale/status/1214511636779696130?s=09)
   - [Co-Founder of Information Security Society of IIIT-Bhubaneswar](https://www.facebook.com/ACMIIITBh/posts/3165433630167350)
@@ -10,7 +10,10 @@ Hello World!! I am Rahul Saxena, a final year computer science undergraduate at 
 
 # Where do I hang out ?
 
-I simply love to learn and explore the core fundamentals of Computer Science. 
+For informal yet passionate discussions on Anime, Boxing, MMA, Cricket and the Stock Market, let's catch up on [Instagram](https://www.instagram.com/saxenism/)
+![Well, no I don't hang out here often :P](port_photo_header.jpg)
+
+For more professional discourse, I prefer these:
 * I blog about my learnings [on Medium](https://medium.com/@rahulsaxena.hindubale)
 * I dish out developer puns and some solid development thread [on Twitter](https://twitter.com/hinduBale) 
 * I love connecting with like-minded people and awesome company reps [on LinkedIn](https://www.linkedin.com/in/saxena-rahul/)
@@ -25,7 +28,7 @@ I simply love to learn and explore the core fundamentals of Computer Science.
 
 ![A Snippet of the Alumni Wall](alumniWallIntroImage.PNG)
 
-With the vision of gaining insight on the alumni from my college and helping the students of our college to get in touch with the alumni at the appropriate positions, I built this **Alumni Wall**.
+With the vision of gaining insights on the alumni from our college and helping the students of our college to get in touch with the alumni at the appropriate positions, I built this **Alumni Wall**.
 
 * A Detailed blogpost can be found [here](https://towardsdatascience.com/battling-covid-19-with-data-science-as-a-university-student-ffcb9304b4c?source=friends_link&sk=69e2db76eaa72bb837a2a9b6fa857223)
 * You can check out the project [here](https://studentsofiiitbh.team/alumniwall/)
