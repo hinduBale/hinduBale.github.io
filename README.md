@@ -57,3 +57,14 @@ Often in an autonomous institute like ours, the previous year question papers of
 * A Detailed blogpost can be found [here](https://towardsdatascience.com/creating-an-exam-archive-system-with-a-data-scientists-toolkit-a080d497a9a0?source=friends_link&sk=510d86233ad78639bc201243db31adc1)
 * You can check out the project [here](https://studentsofiiitbh.team/examarchive/)
 * The source code is available [here](https://github.com/hinduBale/iiit-bh_exam_archive)
+
+## 4. Vaarta: A Realtime Chat Application
+
+![A snippet of the Vaarta Chat Application](vaarta.PNG)
+
+* Created using the MERN stack. Well, there is no database used here, so you can call it the ERN stack maybe :P
+* At the **JOIN** Page, you are expected to type in any **username**(that you like) and type in any random string as your **Room Name**
+* Share the **Room Name** so others can join the room and chat :D
+* *Fair Warning:* It is deployed on the free tier of *Heroku*, so don't expect it to be fast :(
+* You can check out the project [here](https://vaarta.netlify.app/#/) 
+* The source code is available [here](https://github.com/hinduBale/HeadwigAndNagini)
